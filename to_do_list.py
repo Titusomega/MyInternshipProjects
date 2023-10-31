@@ -119,7 +119,7 @@ if __name__ == "__main__":
       
     guiWindow = tk.Tk()  
       
-    guiWindow.title("To-Do List Manager - JAVATPOINT")  
+    guiWindow.title("To-Do List Manager")  
       
     guiWindow.geometry("500x450+750+250")  
       
